@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Yellow",
+  "base_artist": "Coldplay",
+  "createdAt": "2026-02-27T09:51:36.534398Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Yellow Rose",
+      "artist": "Johnny Lee (With Lane Brody)",
+      "has_synced": false,
+      "path": "select/01_The_Yellow_Rose_Johnny_Lee_(With_Lane_Brody).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yellow Rose of Texas",
+      "artist": "Hoyt Axton",
+      "has_synced": true,
+      "path": "select/02_Yellow_Rose_of_Texas_Hoyt_Axton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yellow Rose of Texas (Album Version)",
+      "artist": "Hoyt Axton",
+      "has_synced": true,
+      "path": "select/03_Yellow_Rose_of_Texas_(Album_Version)_Hoyt_Axton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yellow Roses",
+      "artist": "Lissie",
+      "has_synced": true,
+      "path": "select/04_Yellow_Roses_Lissie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yellow Roses",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/05_Yellow_Roses_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yellow Roses (Album Version)",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/06_Yellow_Roses_(Album_Version)_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yellow",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/07_Yellow_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yellow",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/08_Yellow_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Yellow Submarine",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_Yellow_Submarine_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lady in Yellow",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/10_Lady_in_Yellow_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yellow Brick Road",
+      "artist": "Luniz",
+      "has_synced": false,
+      "path": "select/11_Yellow_Brick_Road_Luniz.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Yellow Ribbons",
+      "artist": "The LK",
+      "has_synced": false,
+      "path": "select/12_Yellow_Ribbons_The_LK.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "YELLOW",
+      "artist": "YOH KAMIYAMA",
+      "has_synced": true,
+      "path": "select/13_YELLOW_YOH_KAMIYAMA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Yellow Man",
+      "artist": "Ost & Kjex",
+      "has_synced": false,
+      "path": "select/14_The_Yellow_Man_Ost_&_Kjex.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Y the Quale and Vaguely Bird Noisily Enjoying Their Forbidden Tryst/I'd Be a Yellow Feathered Loon",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/15_Y_the_Quale_and_Vaguely_Bird_Noisily_Enjoying_Their_Forbidden_Tryst_I'd_Be_a_Yel_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Y The Quale And Vaguely Bird Noisily Enjoying Their Forbidden Tryst \u0000 I'd Be A Yellow Feathered Loon",
+      "artist": "Of Montreal",
+      "has_synced": false,
+      "path": "select/16_Y_The_Quale_And_Vaguely_Bird_Noisily_Enjoying_Their_Forbidden_Tryst_\u0000_I'd_Be_A_Y_Of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Yellow",
+      "artist": "Okkervil River",
+      "has_synced": false,
+      "path": "select/17_Yellow_Okkervil_River.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sand All Yellow",
+      "artist": "Kevin Coyne",
+      "has_synced": false,
+      "path": "select/18_Sand_All_Yellow_Kevin_Coyne.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yellow",
+      "artist": "Coldplay",
+      "has_synced": false,
+      "path": "select/pl_01_Yellow_Coldplay.txt"
+    }
+  ]
+}
